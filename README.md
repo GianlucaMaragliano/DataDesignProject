@@ -5,6 +5,6 @@ This Repository contains the script used to generate the data for the Data Desig
 ## Authors: 
 Gianluca Maragliano (gianluca.maragliano@usi.ch), 
 Luca Airaghi (luca.airaghi@usi.ch),
-Francesco De Vito (franceso.de.vito@usi.ch)
+Francesco De Vito (francesco.de.vito@usi.ch)
 
 
